@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">2018102_Tugas9_Rest API</string>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string-array name="defisi">
+        <item>Musik</item>
+        <item>Satra</item>
+        <item>Tari</item>
+        <item>Teater</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.9</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Join</item>
+        <item>Join</item>
+        <item>Join</item>
+        <item>Join</item>
+    </string-array>
+</resources>
